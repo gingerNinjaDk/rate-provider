@@ -1,0 +1,10 @@
+{
+    "prices": [
+        {
+            "id" : "THEFT",
+            "breed": "Theft Rate",
+            "factor": 0.01777
+        }
+
+]
+}
